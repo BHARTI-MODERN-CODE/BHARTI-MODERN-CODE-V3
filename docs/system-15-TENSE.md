@@ -1,8 +1,8 @@
 # System 15: Tense System (काल प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
+**Project:** BHARTI MODERN CODE (BMC) v3  
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
-**Official Reference:** [BMC 6-Grammer Page](https://bharti-modern-code.odoo.com/6-grammar)
+**Official Reference:** [Tense System](https://bharti-modern-code.odoo.com/9-grammar)
 
 ---
 
