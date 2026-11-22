@@ -1,7 +1,8 @@
 # System 03: Universal Word Negation System (सार्वभौमिक शब्द नकारात्मक प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
+**Project:** BHARTI MODERN CODE (BMC) v3  
 **Language:** BHARTI (भारती)  
-**Creator:** Emperor AD
+**Creator:** Emperor AD  
+**Official Reference:** [Negation System](https://bharti-modern-code.odoo.com/3-grammar)
 
 ## 1. Core Rule / मूल नियम
 
