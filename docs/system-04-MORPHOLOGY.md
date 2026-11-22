@@ -1,9 +1,8 @@
 # System 04: Morphology System (रूपविज्ञान प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
+**Project:** BHARTI MODERN CODE (BMC) v3  
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
-**Core Principle:** Non-Concatenative Isolation & Zero-Internal-Derivation
-
+**Official Reference:** [Morphology System](https://bharti-modern-code.odoo.com/3-grammar)
 ---
 
 ## 1. Definition (रूपविज्ञान — परिभाषा)
