@@ -25,7 +25,7 @@ A structured, logical, and AI-friendly language project designed with a precise 
 ## ⚙️ Core Components & Mood / मुख्य प्रणालियाँ और भाव
 - **22 Core Systems:** भाषा के गहरे व्याकरण और नियमों को नियंत्रित करने वाली 22 प्रणालियाँ।
 - **Mood:** वाक्य का उद्देश्य तय करता है—जैसे सवाल पूछना, आदेश देना या इच्छा व्यक्त करना।
-- **BHARTI-Bridge:** क्षेत्रीय भाषाओं से BMC में तार्किक रूप से रूपांतरित (Translate) करने की प्रणाली।
+- **BHARTI-Bridge:** क्षेत्रीय भाषाओं से BMC में तार्किक रूप से रूपांतरित (Translate) करने की प्रणाली। ( Ongoing )
 
 ---
 
@@ -35,7 +35,6 @@ A structured, logical, and AI-friendly language project designed with a precise 
 - **Official Website:** [i-modern-code.odoo.com](https://i-modern-code.odoo.com)
 - **Discord Server (Community):** [Join Discord](https://discord.gg/n2xNPaJyS5)
 - **Reddit Community:** [r/BHARTI_MODERN_CODE](https://www.reddit.com/r/BHARTI_MODERN_CODE/s/LxmPgGJPvw)
-- **GitHub Repository:** [GitHub Hub](https://github.com/BHARTI-MODERN-CODE)
 - **Twitter / X:** [@Bharti_M_Code](https://x.com/Bharti_M_Code)
 - **Telegram Channel:** [Telegram](https://t.me/BHARTI_MODERN_CODE)
 - **YouTube:** [YouTube Channel](https://youtube.com/@bharti-modern-code?si=gxxHPWl3lR5FcNt1)
