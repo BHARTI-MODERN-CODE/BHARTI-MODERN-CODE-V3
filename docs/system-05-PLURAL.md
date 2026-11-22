@@ -1,7 +1,8 @@
 # System 05: Universal Plural System (सार्वभौमिक बहुवचन प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
+**Project:** BHARTI MODERN CODE (BMC) v3  
 **Language:** BHARTI (भारती)  
-**Creator:** Emperor AD
+**Creator:** Emperor AD  
+**Official Reference:** [Plural System](https://bharti-modern-code.odoo.com/3-grammer)
 
 ---
 
