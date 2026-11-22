@@ -2,7 +2,7 @@
 **Project:** BHARTI MODERN CODE (BMC) v3  
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
-**Official Reference:** [Basic Sentence Structure](https://bharti-modern-code.odoo.com/10-grammar)
+**Official Reference:** [Basic Sentence Structure](https://bharti-modern-code.odoo.com/10-grammer)
 
 ---
 
