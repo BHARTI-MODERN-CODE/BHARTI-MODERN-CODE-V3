@@ -1,8 +1,8 @@
 # System 06: Determiner System (निर्धारक प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
+**Project:** BHARTI MODERN CODE (BMC) v3  
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
-**Official Reference:** [BMC 4-Grammer Page](https://bharti-modern-code.odoo.com/4-grammer)
+**Official Reference:** [Determiner System](https://bharti-modern-code.odoo.com/3-grammer)
 
 ---
 
