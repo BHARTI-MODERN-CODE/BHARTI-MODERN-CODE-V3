@@ -1,7 +1,7 @@
 # System 01: Noun System (संज्ञा प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
 **Language:** BHARTI (भारती)  
-**Creator:** Emperor AD
+**Creator:** Emperor AD  
+**Official Reference:** [Noun System](https://bharti-modern-code.odoo.com/2-grammar)
 
 ## 1. Noun — Definition (संज्ञा — परिभाषा)
 
