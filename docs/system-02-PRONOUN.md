@@ -1,5 +1,5 @@
 # System 02: Pronoun System (सर्वनाम प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
+**Project:** BHARTI MODERN CODE (BMC) v3  
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
 **Official Reference:** [Pronoun System](https://bharti-modern-code.odoo.com/2-grammar)
