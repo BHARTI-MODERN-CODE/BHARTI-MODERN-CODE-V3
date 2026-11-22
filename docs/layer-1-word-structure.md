@@ -4,6 +4,7 @@
 
 ## 🌐 Overview / परिचय
 Layer 1 governs the foundational construction of words within the BMC framework, ensuring every word follows a strict phonetic and logical rule (`1 Sound = 1 Symbol`).
+
 यह लेयर (Layer 1) भारती मॉडर्न कोड (BMC) के अंतर्गत शब्दों की बुनियादी संरचना को तय करती है और सुनिश्चित करती है कि हर शब्द एक सटीक ध्वन्यात्मक और तार्किक नियम (`1 Sound = 1 Symbol` / 1 ध्वनि = 1 प्रतीक) का पालन करे।
 
 ---
