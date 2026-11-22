@@ -1,5 +1,5 @@
 # System 09: Honorific System (आदरसूचक प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
+**Project:** BHARTI MODERN CODE (BMC) v3   
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
 **Official Reference:** [Honorific System](https://bharti-modern-code.odoo.com/5-grammer)
