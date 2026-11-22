@@ -1,8 +1,8 @@
 # System 07: Numeral System (संख्या प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
+**Project:** BHARTI MODERN CODE (BMC) v3  
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
-**Official Reference:** [BMC 8-Grammer Page](https://bharti-modern-code.odoo.com/8-grammer)
+**Official Reference:** [Numeral System](https://bharti-modern-code.odoo.com/8-grammer)
 
 ---
 
