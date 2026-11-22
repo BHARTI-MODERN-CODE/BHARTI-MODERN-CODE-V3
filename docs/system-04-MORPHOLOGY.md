@@ -2,7 +2,7 @@
 **Project:** BHARTI MODERN CODE (BMC) v3  
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
-**Official Reference:** [Morphology System](https://bharti-modern-code.odoo.com/3-grammar)
+**Official Reference:** [Morphology System](https://bharti-modern-code.odoo.com/3-grammer)
 ---
 
 ## 1. Definition (रूपविज्ञान — परिभाषा)
