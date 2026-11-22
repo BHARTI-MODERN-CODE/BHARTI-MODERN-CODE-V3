@@ -1,6 +1,8 @@
 # Layer 2: Noun Domain (संज्ञा डोमेन)
-**Project:** BHARTI Modern Code (BMC) v3  
-**Creator:** Emperor AD
+**Language:** BHARTI (भारती)  
+**Creator:** Emperor AD  
+**Official Reference:** [Layer 2 · NOUN DOMAIN](https://bharti-modern-code.odoo.com/leyer-2)
+
 
 ## 🌐 Overview / परिचय
 Layer 2 manages the attributes, surrounding properties, and domains associated with nouns and entities within the BMC framework. 
