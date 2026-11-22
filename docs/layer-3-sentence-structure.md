@@ -1,6 +1,8 @@
 # Layer 3: Sentence Structure (वाक्य संरचना)
-**Project:** BHARTI Modern Code (BMC) v3  
-**Creator:** Emperor AD
+**Language:** BHARTI (भारती)  
+**Creator:** Emperor AD  
+**Official Reference:** [Layer 3 · SENTENCE STRUCTURE](https://bharti-modern-code.odoo.com/leyer-3)
+
 
 ## 🌐 Overview / परिचय
 Layer 3 combines the outputs of Layer 1 (Word Structure) and Layer 2 (Noun Domain) to form complete, coherent, and highly logical sentences.
