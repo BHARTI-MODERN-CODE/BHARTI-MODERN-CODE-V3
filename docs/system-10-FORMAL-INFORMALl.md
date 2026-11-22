@@ -2,7 +2,7 @@
 **Project:** BHARTI Modern Code (BMC) v3  
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
-**Official Reference:** [BMC 5-Grammer Page](https://bharti-modern-code.odoo.com/5-grammer)
+**Official Reference:** [Formal Language System](https://bharti-modern-code.odoo.com/5-grammer)
 
 ---
 
