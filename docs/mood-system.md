@@ -1,6 +1,8 @@
 # Mood Systems (भाव और उद्देश्य प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
-**Creator:** Emperor AD
+**Language:** BHARTI (भारती)  
+**Creator:** Emperor AD  
+**Official Reference:** [Mood](https://bharti-modern-code.odoo.com/mood)
+
 
 ## 🌐 Overview / परिचय
 The 'Mood' component in BMC determines the underlying intent, emotional stance, or grammatical objective of a sentence (e.g., statements, commands, inquiries, or desires).
