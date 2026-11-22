@@ -1,5 +1,5 @@
 # System 10: Formal & Informal Language System (औपचारिक और अनौपचारिक भाषा प्रणाली)
-**Project:** BHARTI Modern Code (BMC) v3  
+**Project:** BHARTI MODERN CODE (BMC) v3
 **Language:** BHARTI (भारती)  
 **Creator:** Emperor AD  
 **Official Reference:** [Formal Language System](https://bharti-modern-code.odoo.com/5-grammer)
