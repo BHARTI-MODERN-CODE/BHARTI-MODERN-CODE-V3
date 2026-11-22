@@ -1,6 +1,8 @@
 # Layer 1: Word Structure (शब्द संरचना)
 **Project:** BHARTI Modern Code (BMC) v3  
-**Creator:** Emperor AD
+**Language:** BHARTI (भारती)  
+**Creator:** Emperor AD  
+**Core Principle:** Non-Concatenative Isolation & Zero-Internal-Derivation
 
 ## 🌐 Overview / परिचय
 Layer 1 governs the foundational construction of words within the BMC framework, ensuring every word follows a strict phonetic and logical rule (`1 Sound = 1 Symbol`).
